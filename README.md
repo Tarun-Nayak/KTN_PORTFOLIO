@@ -1,9 +1,5 @@
 # Portfolio
 
-## Demo
-<p align="center">
-  <img src="/images/portfolio1.gif")
-</p>
 
 <h2> How To Use </h2>
 
@@ -25,7 +21,4 @@
 
 - [UnDraw](https://undraw.co/illustrations)
 
-## References
 
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
